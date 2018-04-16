@@ -1,0 +1,16 @@
+{
+  "name": "yellowmango",
+  "version": "1.0.0",
+  "description": "Yellow Mango Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenji Yamamoto <kenjiys@gmail.com> (http://kenjiyamamoto.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-sass": "^4.0.1"
+  }
+}

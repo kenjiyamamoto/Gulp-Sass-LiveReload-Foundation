@@ -1,0 +1,20 @@
+{
+  "name": "yellowmango",
+  "description": "Yellow Mango Website",
+  "main": "index.js",
+  "authors": [
+    "Kenji Yamamoto <kenjiys@gmail.com> (http://kenjiyamamoto.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
